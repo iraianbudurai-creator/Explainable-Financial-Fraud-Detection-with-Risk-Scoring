@@ -1,0 +1,2 @@
+# Explainable-Financial-Fraud-Detection-with-Risk-Scoring
+Explainable fraud detection system that evaluates each transaction using supervised learning and anomaly analysis. It generates a risk score and explains through SHAP values. The solution exports insights to a Tableau dashboard, enabling clear investigation of high-risk transactions and improving analyst trust, transparency, and decision quality.
